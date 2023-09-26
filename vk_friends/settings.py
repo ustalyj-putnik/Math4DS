@@ -1,0 +1,10 @@
+api_v = '5.154'
+token = 'vk1.a.PHvZEEsSAqZOE3bOfn5Y6hCeFHmLND75rGIO_ybp0NrK_5kb5P_ilhXLsIQOnt4a0FJCYdTHlGyxr6Xl5CtqtF2UDvhcP1uOYvI3CnVf-fY0ef-l7fGtWiA6O2y6jDi6JcoD8tfsGiikKXmx7xOHwUD9BCZw9th_YthXhyrSgJfUwGVgMUIrLWaIO7O7D9M5p7dAEn0tcOw8wdJdi_-bSg'
+my_id = '118466021'
+deep = 1
+delay = 0.5
+max_workers = 1
+broker = {'user': '', 'password':'', 'ip':'', 'vhost':'vk_friends'}
+backend = broker
+m_friends_dct = {'file': 'mutual_friends_dct', 'graph':'mutual_friends_g'}
+d_friends_dct = {'file': 'deep_friends_dct', 'graph': 'deep_friends_g'}
